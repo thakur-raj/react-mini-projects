@@ -1,3 +1,15 @@
+# Framework/Technologies/Concepts used 
+1. react-router-dom and react-currency-format
+2. Material ui
+3. React props
+4. State provider and Reducer
+5. React-context-api
+6. Using react state hooks
+7. Firebase for authentication
+8.Deploy app using firebase
+
+########################################################
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
